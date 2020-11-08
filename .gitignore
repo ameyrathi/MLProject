@@ -6,3 +6,7 @@ yr2017_cleaned.csv
 yr2018_cleaned.csv
 .DS_Store
 .DS_Store
+glove/glove.twitter.27B.50d.txt
+glove/glove.twitter.27B.25d.txt
+glove/glove.twitter.27B.200d.txt
+glove/glove.twitter.27B.100d.txt
