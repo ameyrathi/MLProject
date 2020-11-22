@@ -19,5 +19,5 @@ Welcome to the repo of our CS421 project!
 
 Extremely large files being shared via Google Drive:
 
-1. Raw Stock price data for 2017-2018 needs to be added under the data folder
+1. Raw Stock price data for yr2017.csv and yr2018.csv needs to be added under the data folder 
 2. Glove folder needs to be added in the data folder
