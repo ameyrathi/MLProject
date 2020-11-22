@@ -16,3 +16,8 @@ Welcome to the repo of our CS421 project!
     - Preprocessing notebook contains all the code which turns raw data into processed datasets used for developing models and EDA
     - Sentiment Analysis, Topic Modelling, EDA notebook contains the code used for EDA, sentiment analysis, topic modelling which was used for gaining insights which helped us in building our models 
     - Models notebook contains all the ML models developed 
+
+Extremely large files being shared via Google Drive:
+
+1. Raw Stock price data for 2017-2018 needs to be added under the data folder
+2. Glove folder needs to be added in the data folder
