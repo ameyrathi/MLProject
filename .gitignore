@@ -11,3 +11,7 @@ glove/glove.twitter.27B.25d.txt
 glove/glove.twitter.27B.200d.txt
 glove/glove.twitter.27B.100d.txt
 .DS_Store
+data/glove/glove.twitter.27B.100d.txt
+data/glove/glove.twitter.27B.200d.txt
+data/glove/glove.twitter.27B.25d.txt
+data/glove/glove.twitter.27B.50d.txt
