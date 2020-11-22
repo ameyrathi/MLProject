@@ -4,10 +4,9 @@ subprocess
 collections
 wordcloud
 pyLDAvis
-spacy
 emoji
 preprocessor
 pydot
 gensim
 lightbgm
-imbalanced-learn
+
