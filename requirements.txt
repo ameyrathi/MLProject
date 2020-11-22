@@ -1,0 +1,13 @@
+###### Additional libraries downloaded to run our project ##########
+nltk
+subprocess
+collections
+wordcloud
+pyLDAvis
+spacy
+emoji
+preprocessor
+pydot
+gensim
+lightbgm
+imbalanced-learn
