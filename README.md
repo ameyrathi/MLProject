@@ -1,5 +1,7 @@
-# MLProject
+# Machine Learning Project
 Welcome to the repo of our CS421 project!
+This project aims to find out the effect of Donald Trump's Tweets on S&P 500 stock prices
+
 
 # Directory
 1. data 
